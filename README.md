@@ -9,7 +9,7 @@ Full Stack .NET Developer | Actively Seeking Full-Time Opportunities
 - 😄 Pronouns: Techie
 
 ### I code in
-<img width="50" height="50" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="c-sharp-logo"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/net-framework.png" alt="net-framework"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+<img width="50" height="50" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="c-sharp-logo"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/net-framework.png" alt="net-framework"/> <img width="50" height="50" src="https://img.icons8.com/nolan/64/api-settings.png" alt="api-settings"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> 
 
 ### IDE and Tools I Use
